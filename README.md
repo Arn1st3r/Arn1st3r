@@ -6,4 +6,4 @@ I am interested in data science, web aplications and new technologies.
 
 I am currently expanding my skills in creating web applications based on React.
 
-<h2>Connect with me</h2><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/rafał-arnista-8333341b4/)
+<h2>Connect with me</h2><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/rafał-arnista-8333341b4"/>
