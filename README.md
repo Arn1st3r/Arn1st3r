@@ -16,8 +16,7 @@ I am currently expanding my skills in creating web applications based on React.
   <li>Bootstrap</li>
   <li>Python</li>
   <li>PHP</li>
-  <li>PostgreSQL<li>
-  <li></li>
+  <li>PostgreSQL</li>
 </ul>
   
   <h2> ⭐ Featured Projects </h2>
