@@ -17,7 +17,7 @@ I am currently expanding my skills in creating web applications based on React.
   <li>Python</li>
   <li>PHP</li>
   <li>PostgreSQL<li>
-  </ul>
+</ul>
   
   <h2> ⭐ Featured Projects </h2>
   <ul>
