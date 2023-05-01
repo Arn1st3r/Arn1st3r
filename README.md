@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hi there 👋 </h2>
 
 I'm Rafał, a 21-year-old student studying Computer Science at University of Gdańsk.
 
