@@ -5,6 +5,19 @@ I'm Rafał, a 21-year-old student studying Computer Science at University of Gda
 I am interested in data science, web aplications and new technologies.
 
 I am currently expanding my skills in creating web applications based on React.
+
+<h2>💪 Skills </h2>
+<ul>
+  <li>HTML</li>
+  <li>SCSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>React Router</li>
+  <li>Bootstrap</li>
+  <li>Python</li>
+  <li>PHP</li>
+  <li>PostgreSQL<li>
+  </ul>
   
   <h2> ⭐ Featured Projects </h2>
   <ul>
