@@ -13,6 +13,7 @@ I am currently expanding my skills in creating web applications based on React.
   <li>JavaScript</li>
   <li>React</li>
   <li>React Router</li>
+  <li>TypeScript</li>
   <li>Bootstrap</li>
   <li>Python</li>
   <li>PHP</li>
