@@ -1,26 +1,125 @@
-<h1>Hi there 👋 </h1>
+<h1 align="left">Hi there!👋 My name is Rafał.</h1>
 
-I am Frontend Developer, based in Gdansk in Poland 🇵🇱
+###
 
-I am interested in data science, web applications, and new technologies.
-<h2>🌱 I'm currently learning</h2>
-<ul>
-  <li>Java</li>
-</ul>
-<h2>💪 Skills </h2>
-<h3>Code</h3>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://camo.githubusercontent.com/25caf37c80ad19ff23ec96a855c2cebcca7c985a30f1c72a6516b0ac334c6b51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d726561637426636f6c6f723d363144414642">
-  <img src="https://camo.githubusercontent.com/4bb5d251c475790f5afd0fcddc514d8d960683b3c97c842f77f1ce1e04104647/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d547970655363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d5479706553637269707426636f6c6f723d316533373939">
-  <img src="https://camo.githubusercontent.com/29b93468492d51e795d5c4b9f43838f7e8d2de7885fd851c5fd7250ef90f0b5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4e6578742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4e657874646f746a7326636f6c6f723d666666666666">
+<p align="left">I'm a Frontend and Mobile developer with commercial experience, based in Gdańsk, Poland 🇵🇱<br><br>I'm passionate about web applications and new technologies.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Over two years of commercial experience<br>📚 Currently learning Java and Angular<br>🎯 Goal: Become a FullStack developer</p>
+
+###
+
+<h2 align="left">I've worked with</h2>
+
+###
+
+<h3 align="left">Frontend</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
-<h3>Tools</h3>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://camo.githubusercontent.com/6184200a6f1d7ac8a2d33bbcf8dc7c78cd1c9d2aafcf1a6383acd3415e08c0b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4c696e757826636f6c6f723d646364646531">
-  <img src="https://camo.githubusercontent.com/1b4904851daa9701dbab886bfa98b80d22255f7da987625882b1bbd0ca9d5f50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d4d7953514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4d7953514c26636f6c6f723d303064326433">
-  <img src="https://camo.githubusercontent.com/a7b893ab9aa2271afee67387ab18fb8ed570cdf33ec5dcb8f497e5c560f22a5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d506f737467726553514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d506f737467726573716c26636f6c6f723d313537324236">
-  <img src="https://img.shields.io/badge/Tools-MongoDB-green">
-  <img src="https://camo.githubusercontent.com/881c1f269b575c9ea418a3628b54f0d88e1c9444979e3ecf56478949d173688d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d4669676d612d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4669676d6126636f6c6f723d316533373939">
-</div><br>
-<h2>Connect with me</h2>
-<a href="https://www.linkedin.com/in/rafał-arnista-8333341b4"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
+
+###
+
+<h3 align="left">Mobile</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
+
+###
+
+<h3 align="left">Databases</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="left">Clouds</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h3 align="left">Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">Connect with me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rafal-arnista" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
